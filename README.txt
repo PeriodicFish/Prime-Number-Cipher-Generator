@@ -1,1 +1,1 @@
-# This cipher adds incrementally increasing prime numbers to all letters in the input text. This excludes letters that align with prime numbers.
+# You can run this program in a python IDE. Just copy and paste from Prime Cipher Generator.
